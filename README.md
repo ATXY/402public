@@ -1,2 +1,1 @@
-# 402public
-402 project graphs
+# 402proj
